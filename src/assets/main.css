@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply bg-black px-4 md:px-36;
+  }
+
+  body {
+    font-family: 'Fira Code', monospace;
+    @apply max-w-5xl mx-auto min-h-screen md:bg-dark text-gray text-base;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply text-white;
+  }
+
+  a {
+    @apply group-hover:text-primary hover:text-primary transition ease-in-out duration-300;
+  }
+
+  svg {
+    @apply transition ease-in-out duration-300;
+  }
+
+  .btn {
+    @apply px-4 py-2 ring-1 hover:text-current;
+  }
+
+  .btn-primary {
+    @apply ring-primary hover:bg-primary/20;
+  }
+
+  .btn-secondary {
+    @apply ring-gray hover:bg-gray/20;
+  }
+}

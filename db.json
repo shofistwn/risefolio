@@ -1,0 +1,117 @@
+{
+    "working_at": "Portfolio",
+    "featured_projects": [
+        {
+            "thumbnail": "/img/project-3.png",
+            "title": "Risefolio",
+            "desc": "Highlight your professional identity and standout works, providing a comprehensive snapshot of your digital presence.",
+            "stacks": [
+                "Vue.js",
+                "TailwindCSS"
+            ],
+            "live": "https://risefolio.vercel.app",
+            "repo": "https://github.com/shofistwn/risefolio"
+        },
+        {
+            "thumbnail": "/img/project-2.png",
+            "title": "Risequran",
+            "desc": "Online Quran reading website with Indonesian translations, interpretations, and audio features for easy access and listening.",
+            "stacks": [
+                "Nuxt",
+                "TailwindCSS"
+            ],
+            "live": "https://risequran.vercel.app",
+            "repo": "https://github.com/shofistwn/risequran"
+        },
+        {
+            "thumbnail": "/img/project-1.png",
+            "title": "Risebio",
+            "desc": "Discover personalized link cards for easy access to your social profiles, portfolios, blogs, and more.",
+            "stacks": [
+                "Vue.js",
+                "TailwindCSS"
+            ],
+            "live": "https://risebio.vercel.app",
+            "repo": "https://github.com/shofistwn/risebio"
+        }
+    ],
+    "projects": [
+        {
+            "thumbnail": "/img/project-3.png",
+            "title": "Risefolio",
+            "desc": "Highlight your professional identity and standout works, providing a comprehensive snapshot of your digital presence.",
+            "stacks": [
+                "Vue.js",
+                "TailwindCSS"
+            ],
+            "live": "https://risefolio.vercel.app",
+            "repo": "https://github.com/shofistwn/risefolio"
+        },
+        {
+            "thumbnail": "/img/project-2.png",
+            "title": "Risequran",
+            "desc": "Online Quran reading website with Indonesian translations, interpretations, and audio features for easy access and listening.",
+            "stacks": [
+                "Nuxt",
+                "TailwindCSS"
+            ],
+            "live": "https://risequran.vercel.app",
+            "repo": "https://github.com/shofistwn/risequran"
+        },
+        {
+            "thumbnail": "/img/project-1.png",
+            "title": "Risebio",
+            "desc": "Discover personalized link cards for easy access to your social profiles, portfolios, blogs, and more.",
+            "stacks": [
+                "Vue.js",
+                "TailwindCSS"
+            ],
+            "live": "https://risebio.vercel.app",
+            "repo": "https://github.com/shofistwn/risebio"
+        }
+    ],
+    "skills": {
+        "languages": [
+            "JavaScript",
+            "TypeScript",
+            "PHP",
+            "SQL"
+        ],
+        "databases": [
+            "MySQL",
+            "PostgreSQL",
+            "MongoDB"
+        ],
+        "frameworks": [
+            "TailwindCSS",
+            "Bootstrap",
+            "Vue.js",
+            "Nuxt",
+            "NestJS",
+            "Laravel"
+        ],
+        "tools": [
+            "VSCode",
+            "Figma",
+            "Git",
+            "Linux"
+        ],
+        "others": [
+            "HTML",
+            "CSS",
+            "SCSS"
+        ]
+    },
+    "facts": [
+        "I prefer reading physical books over PDFs",
+        "I like spicy foods",
+        "I don’t have any siblings",
+        "I like to watch action movies"
+    ],
+    "social_media": {
+        "instagram": "https://www.instagram.com/shofistwn",
+        "github": "https://github.com/shofistwn",
+        "linkedin": "https://www.linkedin.com/in/shofistwn",
+        "email": "shofistwn@gmail.com"
+    }
+}

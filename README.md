@@ -1,6 +1,6 @@
-# Incredible Portfolio Experience
+# Risefolio
 
-Welcome to my Incredible Portfolio Experience! 🚀 This repository is more than a mere display of my skills; it's a captivating journey through the remarkable projects and experiences that have shaped my professional story. A special shoutout to the talented [Elias](https://www.figma.com/community/file/1164933568884615740) for bringing this portfolio to life with a stunning UI design!
+Welcome to Risefolio, my personal portfolio repository! 🚀 This space goes beyond being a mere showcase of my skills; it's an engaging journey through the remarkable projects and experiences that have shaped my professional story. A special shoutout to the talented [Elias](https://www.figma.com/community/file/1164933568884615740) for breathing life into this portfolio with a stunning UI design!
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,10 +11,10 @@ Welcome to my Incredible Portfolio Experience! 🚀 This repository is more than
 - [Connect with Me](#connect-with-me)
 
 ## Introduction
-Embark on a thrilling exploration of innovation! 🚀 My portfolio is not just a collection of skills; it's a vibrant testimony to the projects that ignite my passion. Crafted with love and meticulous detail, the UI design by [Elias](https://www.figma.com/community/file/1164933568884615740) sets the stage for an immersive journey into my professional world.
+Embark on an exciting exploration of innovation! 🚀 My portfolio is not just a compilation of skills; it's a vibrant testament to the projects that fuel my passion. Crafted with love and meticulous detail, the UI design by [Elias](https://www.figma.com/community/file/1164933568884615740) sets the stage for an immersive journey into my professional world.
 
 ## Portfolio Highlights
-Explore standout features of my web portfolio:
+Discover the standout features of my web portfolio:
 - **Skills Showcase:** A comprehensive list of my technical skills and proficiencies.
 - **Projects Showcase:** Highlights of key projects with detailed descriptions and links to repositories or live demos.
 - **Contact Information:** Multiple ways to connect with me, including email and LinkedIn.
@@ -33,5 +33,3 @@ This project is an open canvas under the [CC BY 4.0](https://creativecommons.org
 
 ## Connect with Me
 Have questions or eager to discuss the next big thing? Reach out via email at [shofistwn@gmail.com](mailto:shofistwn@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/shofistwn).
-
-**Remember, this isn't just a portfolio; it's an invitation to explore and create! 🌟**

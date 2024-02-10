@@ -5,7 +5,7 @@
     <ul class="hidden lg:flex lg:items-center lg:w-auto lg:space-x-8">
       <li v-for="link in menu" :key="link.name">
         <RouterLink :to="link.to" class="hover:font-medium hover:text-white"
-          :class="{ active: isRouteActive(link.to.name) }">
+          :class="{ active: isRouteActive(link.to.name) }" :target="[link.name === 'blog' ? '_blank' : '']">
           <span class="text-primary">#</span>{{ link.name }}
         </RouterLink>
       </li>
@@ -91,8 +91,9 @@ export default {
       linkedin: "",
       menu: [
         { name: 'home', to: { name: 'home' } },
-        { name: 'works', to: { name: 'projects' } },
         { name: 'about-me', to: { name: 'about-me' } },
+        { name: 'works', to: { name: 'projects' } },
+        { name: 'blog', to: { name: 'blog' } },
         { name: 'contact', to: { name: 'contact' } }
       ],
       isMenuOpen: false

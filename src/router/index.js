@@ -24,6 +24,13 @@ const router = createRouter({
       component: () => import('../views/ContactView.vue')
     },
     {
+      path: '/blog',
+      name: 'blog',
+      beforeEnter() {
+        window.location.href = 'https://blog.riseku.com';
+      }
+    },
+    {
       path: '/:pathMatch(.*)',
       component: () => import('../views/404View.vue')
     }
